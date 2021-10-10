@@ -1,2 +1,2 @@
 # Google Foobar Challenge
-Here are solutions to Google Foobar challenges in Python. 
+Here are my solutions to Google Foobar challenges in Python. 
